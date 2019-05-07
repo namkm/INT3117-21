@@ -1,6 +1,6 @@
 
 # Nhóm 10:
-1. Security: Arachni (by Trần Thế Nam)</br>
+**1. Security: Arachni (by Trần Thế Nam)**</br>
 Link video giới thiệu công cụ: https://www.youtube.com/watch?v=F84S_kaxpho&t=78s</br>
 VULNERABILITY FOUND</br>
 1.1 Missing "Stric-Transport-Security" header</br>
